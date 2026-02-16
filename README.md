@@ -101,7 +101,7 @@ module.exports = {
 git clone https://github.com/YourUsername/MCS-BOT.git
 cd MCS-BOT
 npm install
-node main.js
+node index.js
 ```
 
 ---
