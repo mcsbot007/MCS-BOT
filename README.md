@@ -99,9 +99,10 @@ module.exports = {
 
 ```bash
 git clone https://github.com/mohammadbadol/BADOL.git
-cd MCS-BOT
+cd BADOL
 npm install
 node index.js
+
 ```
 
 ---
