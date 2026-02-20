@@ -1,5 +1,5 @@
 module.exports = {
-  BOT_TOKEN: "8241612339:AAEHToRomvtXvNIBCHrI9Mgy2sf6rK-uJ_w",
+  BOT_TOKEN: "YOUR-BOT-TOKEN-HERE",
 
   BOT_SETTINGS: {
     NAME: "𝄞⋆⃝🧚‍𝐌𝐂𝐒-𝐁𝐎𝐓🧚‍⋆⃝𝄞",
