@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: MCS-BOT
-        run: npm startHIMU-BOTHIMU-BOT
+      - name: Start MCS-BOT
+        run: npm start
